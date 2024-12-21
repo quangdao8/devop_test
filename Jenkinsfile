@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building...'
+                echo 'Building co xiu ....'
                 // Chạy lệnh build của ứng dụng
             }
         }
